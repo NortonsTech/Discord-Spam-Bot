@@ -1,4 +1,4 @@
-Discord Spam Bot in PHP!
+# Discord Spam Bot in PHP!
 
 PHP, HTML and JS.
 
